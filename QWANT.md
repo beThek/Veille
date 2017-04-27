@@ -2,6 +2,8 @@
 
 # C'est la base
 
+- QWANT une alternative a GOGOLE
+
 > Page d'accueil de QWANT
 
 ![](http://geeko.lesoir.be/wp-content/uploads/sites/58/2016/05/QWANT.jpg)
