@@ -4,7 +4,7 @@
 
 > Quesque QWANT ?
 
-Qwant est un puissant moteur de recherche créé en france en 2014 popularisé en 2006 par des entrepreneur francais</br>(il ne divulge pas leur identité) qui mets la protection des donnés au centre de leur philosophie
+Qwant est un puissant moteur de recherche, créé en france en 2014, popularisé en 2016, par des entrepreneur francais</br>(il ne divulge pas leurs identité), qui mets la protection des donnés personelle au centre de leur philosophie
 
 > Anectode
 
@@ -40,7 +40,7 @@ Le référencement est uniquement naturel (si votre site n'apparait pas on peut 
 
 > L'argent
 
-QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent uniquement avec les publiciters</br>qui s'affiche lors des résultat de recherche
+QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent uniquement avec les publicités</br>qui s'affiche lors des résultat de recherche
 
 > Petit sondage
 
