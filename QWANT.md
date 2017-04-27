@@ -20,6 +20,8 @@ Qwant est un puissant moteur de recherche créé en france en 2014 par des entre
 
 - Qwant supprime apres 6 mois toute donné sur vous et n'en fait pas commerce
 
+- Qwanr Qwant ne modifie pas les réponses selon l’internaute
+
 > Page d'accueil de QWANT
 
 ![](http://geeko.lesoir.be/wp-content/uploads/sites/58/2016/05/QWANT.jpg)
