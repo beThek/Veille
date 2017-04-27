@@ -2,6 +2,22 @@
 
 # QWANT une alternative a GOGOLE
 
+> Quesque QWANT ?
+
+Qwant est un puissant moteur de recherche créé en france en 2014 par des entrepreneur francais (il ne divulge pas leur identité) qui mets la protection des donnés au centre de leur philosophie</br>Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT pour wanted (recheche)
+
+> Comment QWANT garanti votre vie privée
+
+- QWANT ne cherche pas a savoir qui vous etes ou se que vous faites
+
+- Qwant ne collecte pas de données sur ses utilisateurs
+
+- QWANT n'utilise pas de Cookie
+
+- Qwant n'utilise pas de dispositif de traçage
+
+- Qwant a un service "Privacy" dédié à la protection de votre vie privée
+
 > Page d'accueil de QWANT
 
 ![](http://geeko.lesoir.be/wp-content/uploads/sites/58/2016/05/QWANT.jpg)
