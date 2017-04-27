@@ -40,7 +40,7 @@ Le référencement est uniquement naturel (si votre site n'apparait pas on peut 
 
 > L'argent
 
-- QWANT est un moteur de recherche entieremnt gratuit et gagne de l'argent uniquement avec les publiciters qui s'affiche lors des résultat de recherche 
+QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent uniquement avec les publiciters</br>qui s'affiche lors des résultat de recherche
 
 > Petit sondage
 
