@@ -1,8 +1,6 @@
-# Quand un homme de 100 kilos parle </br>celui qui en fait 50 l'écoute
+# Quand un homme de 100 kilos parle </br>celui qui en fait 50 l'écoute</br></br>C'est la base
 
-# C'est la base
-
-- QWANT une alternative a GOGOLE
+# WANT une alternative a GOGOLE
 
 > Page d'accueil de QWANT
 
