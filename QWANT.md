@@ -4,23 +4,27 @@
 
 > Quesque QWANT ?
 
-Qwant est un puissant moteur de recherche créé en france en 2014 par des entrepreneur francais</br>(il ne divulge pas leur identité) qui mets la protection des donnés au centre de leur philosophie</br>Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT pour wanted (recheche)
+Qwant est un puissant moteur de recherche créé en france en 2014 par des entrepreneur francais</br>(il ne divulge pas leur identité) qui mets la protection des donnés au centre de leur philosophie
+
+> Anectode
+
+Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT pour wanted (recheche)
 
 > Comment QWANT garanti votre vie privée
 
 - QWANT ne cherche pas a savoir qui vous etes ou se que vous faites
 
-- Qwant ne collecte pas de données sur ses utilisateurs
+- QWANT ne collecte pas de données sur ses utilisateurs
+
+- QWANT supprime apres 6 mois toute donné sur vous et n'en fait pas commerce
+
+- QWANT Qwant ne modifie pas les réponses selon l’internaute (pour Gabriel)
 
 - QWANT n'utilise pas de Cookie
 
-- Qwant n'utilise pas de dispositif de traçage
+- QWANT n'utilise pas de dispositif de traçage
 
-- Qwant a un service "Privacy" dédié à la protection de votre vie privée
-
-- Qwant supprime apres 6 mois toute donné sur vous et n'en fait pas commerce
-
-- Qwanr Qwant ne modifie pas les réponses selon l’internaute
+- QWANT a un service "Privacy" dédié à la protection de votre vie privée
 
 > Page d'accueil de QWANT
 
