@@ -2,4 +2,6 @@
 
 # C'est la base
 
+![](http://geeko.lesoir.be/wp-content/uploads/sites/58/2016/05/QWANT.jpg)
+
 # Merci de m'avoir ecouté
