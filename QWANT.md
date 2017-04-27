@@ -34,6 +34,14 @@ Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT
 
 ![](http://s2.lemde.fr/image/2016/06/22/534x0/4955967_6_c5cd_une-page-de-resultats-de-recherche-de-qwant_cfb56b5a57dae6bf3064f0b36c994322.png)
 
+> Petit sondage
+
+- Qui utilise gogole au quotidien ?
+
+- Qui est septique par rapport au donnés personel sur gogole
+
+- Qui est maintenant intérressé par QWANT ?
+
 # Merci de m'avoir ecouté
 
 Lien utile :
