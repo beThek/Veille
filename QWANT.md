@@ -18,7 +18,7 @@ Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT
 
 - QWANT supprime apres 6 mois toute donné sur vous et n'en fait pas commerce
 
-- QWANT Qwant ne modifie pas les réponses selon l’internaute (pour Gabriel)
+- QWANT Qwant ne modifie pas les réponses selon l’internaute
 
 - QWANT n'utilise pas de Cookie
 
