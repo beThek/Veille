@@ -1,5 +1,3 @@
-# Quand un homme de 100 kilos parle </br>celui qui en fait 50 l'écoute</br></br>C'est la base
-
 # QWANT une alternative a GOGOLE
 
 > Quesque QWANT ?
