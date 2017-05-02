@@ -46,8 +46,6 @@ QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent un
 
 - Qui utilise gogole au quotidien ?
 
-- Qui est septique par rapport au donnés personel sur gogole ?
-
 - Qui est maintenant intérressé par QWANT ?
 
 # Merci de m'avoir ecouté
