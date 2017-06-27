@@ -1,6 +1,6 @@
 # alyze un outils d'audit de SEO gratuit et illimité
 
-![](https://www.ecommerce-place.fr/wp-content/uploads/2017/03/page-home-alyze-info.png)
+![](https://pbs.twimg.com/profile_images/852154885802008576/vYl1DczQ.jpg)
 
 > Quesque alyze ?
 
@@ -26,13 +26,13 @@ Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT
 
 - QWANT a un service "Privacy" dédié à la protection de votre vie privée
 
-> Page d'accueil de QWANT
+> Page d'accueil de alyze
 
-![](http://geeko.lesoir.be/wp-content/uploads/sites/58/2016/05/QWANT.jpg)
+![](https://i0.wp.com/digitiz.fr/wp-content/uploads/2017/02/outil-seo-alyze.jpg)
 
-> Page apres une recherche de QWANT
+> Page apres une recherche de alyze
 
-![](http://s2.lemde.fr/image/2016/06/22/534x0/4955967_6_c5cd_une-page-de-resultats-de-recherche-de-qwant_cfb56b5a57dae6bf3064f0b36c994322.png)
+![](https://alyze.info/img/doc/titre-alyze-aper%C3%A7u-snippet-google.png)
 
 > Référencement
 
