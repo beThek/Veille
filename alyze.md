@@ -52,4 +52,4 @@ QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent un
 
 Lien utile :
 
-[www.qwant.com](https://www.qwant.com/)
+[www.alyze.info](https://alyze.info/)
