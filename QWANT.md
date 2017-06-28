@@ -38,7 +38,7 @@ Le nom QWANT est la contraction de Q Pour quantité (la masse de donné) et WANT
 
 Le référencement est uniquement naturel (si votre site n'apparait pas on peut les contacter par formulaire)
 
-> L'argent
+> L'argent ?
 
 QWANT est un moteur de recherche entierement gratuit et qui gagne de l'argent uniquement avec les publicités</br>qui s'affiche lors des résultat de recherche
 
