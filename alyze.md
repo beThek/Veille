@@ -1,4 +1,4 @@
-# alyze un outils d'audit de SEO gratuit et illimité
+# alyze un outil d'audit de SEO gratuit et illimité
 
 ![](https://pbs.twimg.com/profile_images/852154885802008576/vYl1DczQ.jpg)
 
@@ -14,7 +14,7 @@ alyze est un outil d'audit SEO gratuit. En une fraction de seconde, il construit
 
 ![](https://alyze.info/img/doc/titre-alyze-aper%C3%A7u-snippet-google.png)
 
-> L'argent
+> L'argent ?
 
 alyze fait une campagne de don
 
